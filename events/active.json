@@ -1,0 +1,31 @@
+{
+  "slug": "krishnapriya-catering-service-kothamangalam",
+  "name": "Krishnapriya Catering Service",
+  "shortName": "Krishnapriya",
+  "descriptor": "Catering Services",
+  "address": "Varikkakuzhi house, P.O, Thrikkariyoor, Kothamangalam, Keralam 686692",
+  "area": "Thrikkariyoor",
+  "city": "Kothamangalam",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "686692",
+  "geo": {
+    "lat": 10.091624399999999,
+    "lng": 76.61543689999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=5349992225056092720",
+  "phone": "+91 99615 77945",
+  "whatsapp": "919961577945",
+  "hours": "Open 9 am – 9 pm · all days",
+  "opens": "09:00",
+  "closes": "21:00",
+  "rating": 5,
+  "reviewCount": 1,
+  "reviews": [],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://krishnapriya-catering-service-kotha.vercel.app"
+}
